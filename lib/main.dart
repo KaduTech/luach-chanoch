@@ -872,7 +872,7 @@ class _SettingsPageState extends State<SettingsPage> {
             onPressed: () => showAboutDialog(
                   context: context,
                   applicationName: 'Luach Chanoch',
-                  applicationVersion: '0.1.0',
+                  applicationVersion: '1.0.0',
                   applicationLegalese:
                       'Calendar preferences and journal entries are stored locally on your device. Luach Chanoch does not create accounts or transmit personal data.',
                   children: const <Widget>[

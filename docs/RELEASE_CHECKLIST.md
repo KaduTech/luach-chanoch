@@ -16,7 +16,7 @@
 - [x] Test conversion boundary cases and at least one full 364-day calendar table approved by the content owner.
 - [ ] Test on physical iPhone and Android devices, including light/dark mode, offline launch, and large text accessibility.
 - [x] Branded app icons, splash screen, Android package name, and iOS bundle identifier are set.
-- [ ] Set final release version numbers before store upload.
+- [x] Set the final release version to `1.0.0+1` before store upload.
 - [x] Android package name and iOS bundle identifier are set to `com.kadutech.luachchanoch`.
 - [x] Add opt-in local Sabbath-reminder scheduling.
 - [ ] Test notification permission denial, timezone changes, and reboot rescheduling on physical devices.
