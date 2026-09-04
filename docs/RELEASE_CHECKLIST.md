@@ -5,14 +5,14 @@
 - [x] Public app name and a production launcher icon are in place: Luach Chanoch.
 - [x] Confirm the epoch, AM chronology, seasonal days, and feast rules with the appointed ministry/content owner.
 - [x] Review every observance description and calendar disclaimer for theological and editorial accuracy.
-- [ ] Replace the starter reading cycle with licensed or original content.
+- [ ] Receive the appointed content owner's approval for a final reading/reflection plan, or remove the reading card from version 1.0.
 - [x] Add a support email and public support site.
 
 ## Technical
 
 - [x] Flutter Android and iOS platform projects are generated.
 - [x] Run `flutter pub get` and `flutter test` (12 automated tests pass).
-- [ ] Run static analysis in the target release environment; the local analyzer service needs repair before a clean report can be recorded.
+- [x] Run static analysis in the target release environment (`flutter analyze` is clean locally and in GitHub Actions).
 - [x] Test conversion boundary cases and at least one full 364-day calendar table approved by the content owner.
 - [ ] Test on physical iPhone and Android devices, including light/dark mode, offline launch, and large text accessibility.
 - [x] Branded app icons, splash screen, Android package name, and iOS bundle identifier are set.
@@ -32,4 +32,4 @@
 
 ## Explicit launch blockers
 
-The following cannot be completed from this workspace: store account ownership, signing certificates/keys, and physical-device testing.
+The following cannot be completed from this workspace: final reading-plan approval, store account ownership, signing certificates/keys, and physical-device testing.
