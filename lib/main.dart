@@ -827,9 +827,10 @@ class _SettingsPageState extends State<SettingsPage> {
                   firstDate: DateTime(1900),
                   lastDate: DateTime(2200),
                   initialDate: widget.epoch);
-              if (pick != null)
+              if (pick != null) {
                 widget.onChanged(
                     pick, int.tryParse(_year.text) ?? widget.amYear);
+              }
             }),
         TextField(
             controller: _year,
