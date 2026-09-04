@@ -162,7 +162,7 @@ class _OnboardingPageState extends State<OnboardingPage> {
     _OnboardingContent(Icons.rule_outlined, 'Your convention is visible',
         'This app starts with 25 March 2026 as AM 6029, Month 1, Day 1. Different communities may use another epoch or chronology.'),
     _OnboardingContent(Icons.tune_outlined, 'Make it yours',
-        'You can review and change the epoch and AM year in Settings. Feast references and readings are starting material, not authority for your community.'),
+        'You can review and change the epoch and AM year in Settings. The default feast schedule follows the approved Luach Chanoch calendar.'),
   ];
 
   @override
@@ -854,7 +854,7 @@ class _SettingsPageState extends State<SettingsPage> {
           contentPadding: EdgeInsets.zero,
           title: const Text('Calendar reminders'),
           subtitle: const Text(
-              'Sabbaths at 6:00 PM and reference observances at 9:00 AM.'),
+              'Sabbaths at 6:00 PM and feast observances at 9:00 AM.'),
           value: widget.sabbathReminders,
           onChanged: widget.onSabbathRemindersChanged,
         ),
@@ -863,7 +863,7 @@ class _SettingsPageState extends State<SettingsPage> {
             style: Theme.of(context).textTheme.titleLarge),
         const SizedBox(height: 8),
         const Text(
-            'Enoch calendar traditions do not share one universal chronology or start-day convention. Luach Chanoch identifies its calculation rule rather than presenting a contested date as definitive.'),
+            'Luach Chanoch uses its approved 364-day calendar and feast schedule. You can review or change the epoch and AM year if your local observance uses a different calculation.'),
         const SizedBox(height: 20),
         OutlinedButton.icon(
             icon: const Icon(Icons.info_outline),
@@ -873,12 +873,12 @@ class _SettingsPageState extends State<SettingsPage> {
                   applicationName: 'Luach Chanoch',
                   applicationVersion: '0.1.0',
                   applicationLegalese:
-                      'Calendar preferences are stored locally on your device. This MVP does not create accounts or transmit personal data.',
+                      'Calendar preferences and journal entries are stored locally on your device. Luach Chanoch does not create accounts or transmit personal data.',
                   children: const <Widget>[
                     Padding(
                         padding: EdgeInsets.only(top: 16),
                         child: Text(
-                            'Date and feast conventions vary among Enoch-calendar communities. Review settings and content with your community before relying on an observance date.'))
+                            'The default feast dates follow the approved Luach Chanoch calendar. Change the calendar convention in Settings only when your observance uses a different epoch.'))
                   ],
                 )),
       ]);

@@ -1,6 +1,6 @@
 # Luach Chanoch Privacy Policy
 
-**Effective date:** [INSERT DATE BEFORE PUBLICATION]
+**Effective date:** 3 September 2026
 
 Luach Chanoch is a calendar companion that calculates dates using the calendar convention selected on your device.
 
@@ -10,7 +10,7 @@ The current version does not require an account and does not collect, sell, or s
 
 ## Notifications
 
-The app offers optional local calendar reminders for Sabbaths and reference observances. The operating system asks for permission only when you enable them. Reminder preferences and schedules are stored on the device and are not sent to a server.
+The app offers optional local calendar reminders for Sabbaths and feast observances. The operating system asks for permission only when you enable them. Reminder preferences and schedules are stored on the device and are not sent to a server.
 
 ## Third parties
 
@@ -26,6 +26,6 @@ Material updates to this policy will be published at the public policy URL befor
 
 ## Contact
 
-Contact: **[INSERT SUPPORT EMAIL]**
+For help with Luach Chanoch, email [contact@kadutech.com](mailto:contact@kadutech.com) or visit the [Luach Chanoch support page](https://www.kadutech.com/luach-chanoch/support).
 
-Before release, publish this document at a publicly accessible HTTPS URL and replace all bracketed placeholders.
+This policy is published at [www.kadutech.com/luach-chanoch/privacy](https://www.kadutech.com/luach-chanoch/privacy).

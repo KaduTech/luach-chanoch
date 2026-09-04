@@ -15,7 +15,7 @@ Luach Chanoch helps you view and explore a fixed 364-day Enoch calendar from you
 - See today’s Enoch date, AM year, weekday, season, and Sabbath status.
 - Convert dates between Gregorian and Enoch calendar systems.
 - Browse all twelve months in a clear day-grid view.
-- Identify Sabbaths, seasonal boundary days, and reference observances.
+- Identify Sabbaths, seasonal boundary days, and approved feast observances.
 - Read a short daily Scripture prompt.
 - Set the epoch and AM year used by your community.
 - Keep your calendar settings on your device and use the core calendar offline.
@@ -32,9 +32,9 @@ Reference (primary); Lifestyle or Books (consider as secondary based on final co
 
 ## Support and marketing URLs
 
-- Support URL: **[INSERT HTTPS URL]**
-- Privacy Policy URL: **[INSERT HTTPS URL]**
-- Marketing URL (optional): **[INSERT HTTPS URL]**
+- Support URL: **https://www.kadutech.com/luach-chanoch/support**
+- Privacy Policy URL: **https://www.kadutech.com/luach-chanoch/privacy**
+- Marketing URL (optional): **https://www.kadutech.com/luach-chanoch/support**
 
 ## Screenshot plan
 

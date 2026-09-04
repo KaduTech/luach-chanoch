@@ -20,7 +20,7 @@ This is a user-editable convention, not a claim that all Enoch-calendar communit
 
 1. **Today**: AM year, month/day, weekday, season, Sabbath status, daily-reading placeholder.
 2. **Convert**: convert both Gregorian-to-Enoch and Enoch-to-Gregorian dates.
-3. **Year**: browse all twelve months, their lengths, Gregorian start dates, and a day-grid that marks Sabbaths, seasonal days, and reference observances.
+3. **Year**: browse all twelve months, their lengths, Gregorian start dates, and a day-grid that marks Sabbaths, seasonal days, and approved feast observances.
 4. **Settings**: disclose and change the calendar epoch and AM year.
 5. **Onboarding**: explain the chronology, epoch, and community-variation disclaimer before users first enter the calendar.
 6. **Journal**: create and delete private prayer or reflection entries stored locally on the device.
@@ -40,12 +40,12 @@ Firebase Authentication, Firestore content, Cloud Messaging, and a web admin por
 
 ## Content note
 
-The app includes a small starter reading cycle and several commonly observed feast reference dates. Feast observance differs across communities, so these entries are labeled as references and must be reviewed by the chosen ministry/content owner before a public release.
+The app includes a small starter reading cycle and the approved Luach Chanoch feast schedule. The default epoch remains visible and user-adjustable so communities using a different calculation can choose their own convention.
 
 ## Release checklist
 
 - Replace provisional name, icon, colors, and legal/support links.
-- Define feast dates and readings with the ministry/content owner.
+- Maintain the approved feast schedule and readings with the appointed content owner.
 - Test date rules against the approved chronology and a published reference table.
 - Add Privacy Policy and App Store privacy disclosures.
 - Run iOS and Android device tests, including notifications and offline mode.

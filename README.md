@@ -38,4 +38,4 @@ On macOS, select an iOS simulator or connected iPhone; on Windows, run against a
 - `docs/STORE_LISTING.md` — store copy, keywords, category, and screenshot plan
 - `docs/RELEASE_CHECKLIST.md` — technical, content, privacy, and store gates
 
-Calendar reminders are optional, local-device notifications. Users are asked for permission only after enabling them in Settings; Sabbaths are scheduled for 6 PM and reference observances for 9 AM. Final feast observance dates and content still need approval by the appointed content owner before a public-store launch.
+Calendar reminders are optional, local-device notifications. Users are asked for permission only after enabling them in Settings; Sabbaths are scheduled for 6 PM and approved feast observances for 9 AM. The approved festival schedule is included in the app's default calendar convention.

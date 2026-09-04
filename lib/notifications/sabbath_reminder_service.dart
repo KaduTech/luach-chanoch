@@ -108,7 +108,7 @@ class SabbathReminderService {
             isSabbath ? 'Sabbath reminders' : 'Calendar observances',
             channelDescription: isSabbath
                 ? 'Reminders for upcoming Enoch Sabbaths.'
-                : 'Reference observances in Luach Chanoch.',
+                : 'Feast observances in Luach Chanoch.',
             importance: Importance.defaultImportance,
             priority: Priority.defaultPriority,
           ),

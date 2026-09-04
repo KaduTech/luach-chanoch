@@ -71,7 +71,7 @@ List<CalendarReminder> upcomingCalendarReminders(
         kind: CalendarReminderKind.observance,
         scheduledAt: scheduledAt,
         title: '${observance.name} today',
-        body: 'Calendar reference: ${observance.description}',
+        body: 'Luach Chanoch observance: ${observance.description}',
       ));
       observancesScheduled++;
     }
