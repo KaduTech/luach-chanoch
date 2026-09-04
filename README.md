@@ -9,7 +9,7 @@ Luach Chanoch is an offline 364-day Enoch calendar companion for Android and iOS
 - A complete 364-day month grid with Sabbath, observance, and seasonal markers
 - Configurable calendar epoch and AM year
 - First-launch explanation of the chosen convention
-- Persisted preferences and a seven-day reflection cycle (pending the content owner's final reading-plan approval)
+- Persisted preferences and an approved seven-day reflection cycle
 - Private, offline prayer and reflection journal
 - An in-app explanation of the chronology and calculation assumptions
 - Dark mode, an upcoming-observance view, and opt-in local calendar reminders

@@ -40,7 +40,7 @@ Firebase Authentication, Firestore content, Cloud Messaging, and a web admin por
 
 ## Content note
 
-The app includes a small starter reading cycle and the approved Luach Chanoch feast schedule. The default epoch remains visible and user-adjustable so communities using a different calculation can choose their own convention.
+The app includes an approved seven-day reflection cycle and the approved Luach Chanoch feast schedule. The default epoch remains visible and user-adjustable so communities using a different calculation can choose their own convention.
 
 ## Release checklist
 

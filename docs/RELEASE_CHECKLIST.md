@@ -5,7 +5,7 @@
 - [x] Public app name and a production launcher icon are in place: Luach Chanoch.
 - [x] Confirm the epoch, AM chronology, seasonal days, and feast rules with the appointed ministry/content owner.
 - [x] Review every observance description and calendar disclaimer for theological and editorial accuracy.
-- [ ] Receive the appointed content owner's approval for a final reading/reflection plan, or remove the reading card from version 1.0.
+- [x] Receive the appointed content owner's approval for the seven-day reading/reflection plan.
 - [x] Add a support email and public support site.
 
 ## Technical
@@ -32,4 +32,4 @@
 
 ## Explicit launch blockers
 
-The following cannot be completed from this workspace: final reading-plan approval, store account ownership, signing certificates/keys, and physical-device testing.
+The following cannot be completed from this workspace: store account ownership, signing certificates/keys, and physical-device testing.
